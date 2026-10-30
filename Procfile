@@ -1,0 +1,1 @@
+web: gunicorn diskret_tuzilmalar:app
